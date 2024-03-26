@@ -15,7 +15,7 @@ My journey in coding....
 <div id="languages" align="left">
 
 Just starting out:
-- Chat GPT
+- Chat GPT <img width="32px" alt="ChatGPT" title="ChatGPT" src="./openai.svg"/>
 - Earsketch
 - Open CV
 
