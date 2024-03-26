@@ -7,9 +7,12 @@ My journey in coding....
 </div>
 
 
-<div id="languages" align="center">
+<div align="center">
 
 <h2>Here are some of the tools and languages I've worked with:</h2>
+</div>
+
+<div id="languages" align="left">
 
 Just starting out:
 - Chat GPT
