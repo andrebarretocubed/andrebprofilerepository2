@@ -15,9 +15,9 @@ My journey in coding....
 <div id="languages" align="left">
 
 Just starting out:
-- Chat GPT <img src="https://img.shields.io/badge/ChatGPT-green?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI Badge"/>
-- Earsketch <img src="https://img.shields.io/badge/EarSketch-purple?style=for-the-badge&logo=applemusic&logoColor=white" alt="Earsketch Badge"/>
-- Open CV <img src="https://img.shields.io/badge/OpenCV-grey?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV Badge"/>
+- <img src="https://img.shields.io/badge/ChatGPT-green?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI Badge"/>
+- <img src="https://img.shields.io/badge/EarSketch-purple?style=for-the-badge&logo=applemusic&logoColor=white" alt="Earsketch Badge"/>
+- <img src="https://img.shields.io/badge/OpenCV-grey?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV Badge"/>
 
 I've got the hang of these:
 - TinkerCad
