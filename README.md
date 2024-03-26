@@ -15,7 +15,7 @@ My journey in coding....
 <div id="languages" align="left">
 
 Just starting out:
-- Chat GPT <img src="https://github.com/andrebarretocubed/andrebprofilerepository2/blob/main/openai.svg" width="48">
+- Chat GPT <img color="white" src="https://github.com/andrebarretocubed/andrebprofilerepository2/blob/main/openai.svg" width="48">
 - Earsketch
 - Open CV
 
