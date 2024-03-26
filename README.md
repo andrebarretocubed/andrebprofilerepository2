@@ -32,3 +32,18 @@ I'm a pro:
 
 </div>
 
+<div align="center">
+
+<h2>Here are my projects:</h2>
+</div>
+
+<div id="projects" align="left">
+Planning:
+
+
+Ongoing:
+
+
+Complete:
+
+</div>
