@@ -14,19 +14,22 @@ My journey in coding....
 
 <div id="languages" align="left">
 <div class="row">
-  <div class="column">Just starting out:
+  <div class="column">
+    Just starting out:
 - <img src="https://img.shields.io/badge/ChatGPT-green?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI Badge"/>
 - <img src="https://img.shields.io/badge/EarSketch-purple?style=for-the-badge&logo=applemusic&logoColor=white" alt="Earsketch Badge"/>
 - <img src="https://img.shields.io/badge/OpenCV-grey?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV Badge"/></div>
-  <div class="column"></div>
+  <div class="column">
+    I've got the hang of these:
+- <img src="https://img.shields.io/badge/Tinkercad-lightblue?style=for-the-badge&logo=tinkercad&logoColor=white" alt="Tinkercad Badge"/>
+- <td align="center"><img src="https://img.shields.io/badge/AI Art-orange?style=for-the-badge&logo=excalidraw&logoColor=white" alt="SketchRNN Badge"/>
+- <img src="https://img.shields.io/badge/Google Sheets-darkgreen?style=for-the-badge&logo=googlesheets&logoColor=white" alt="Google Sheets Badge"/>
+  </div>
 </div>
 
 
 
-I've got the hang of these:
-- <img src="https://img.shields.io/badge/Tinkercad-lightblue?style=for-the-badge&logo=tinkercad&logoColor=white" alt="Tinkercad Badge"/>
-- <td align="center"><img src="https://img.shields.io/badge/AI Art-orange?style=for-the-badge&logo=excalidraw&logoColor=white" alt="SketchRNN Badge"/>
-- <img src="https://img.shields.io/badge/Google Sheets-darkgreen?style=for-the-badge&logo=googlesheets&logoColor=white" alt="Google Sheets Badge"/>
+
   
 I'm a pro:
 - <img src="https://img.shields.io/badge/Codepen-pink?style=for-the-badge&logo=codepen&logoColor=white" alt="Codepen Badge"/>
