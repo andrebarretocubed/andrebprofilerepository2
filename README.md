@@ -41,11 +41,20 @@ I'm a pro:
 Planning:
 <a href="https://github.com/andrebarretocubed/andrebprofilerepository2">Andre Profile Repo 2.0</a>
 
+This project involes an overhaul of my profile on github, currently still in the planning stages but big things are coming!
+
 Ongoing:
 <a href="https://github.com/andrebarretocubed/andrebarretocubed">Andre Original Profile Project</a>
 
+This is version 1.0 of my profile, it was a good basis to start from and had many features, but still needs improvement.
+
 Complete:
 <a href="https://github.com/andrebarretocubed/parse-server-example">Parse Server Code</a>
+
+This is a finished project involving parsed server code, I had forked it a while ago and it is ready for use.
+
 <a href="https://github.com/andrebarretocubed/java">Java Node</a>
+
+This fininished project involves Java nodes, and is forked from a mainline project. It is completed.
 
 </div>
