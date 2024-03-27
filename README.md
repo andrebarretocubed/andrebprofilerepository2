@@ -64,3 +64,13 @@ This is a finished project involving parsed server code, I had forked it a while
 This fininished project involves Java nodes, and is forked from a mainline project. It is completed.
 
 </div>
+
+
+<div align="center">
+
+<h2>Here are my main github statistics:</h2>
+</div>
+
+<div id="statistics" align="left">
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=andrebarretocubed&show_icons=true)
+</div>
