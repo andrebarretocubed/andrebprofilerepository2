@@ -72,5 +72,6 @@ This fininished project involves Java nodes, and is forked from a mainline proje
 </div>
 
 <div id="statistics" align="left">
+  
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=andrebarretocubed&theme=discord_old_blurple)
 </div>
