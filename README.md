@@ -74,4 +74,6 @@ This fininished project involves Java nodes, and is forked from a mainline proje
 <div id="statistics" align="left">
   
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=andrebarretocubed&theme=discord_old_blurple)
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=andrebarretocubed&theme=discord_old_blurple&utcOffset=8)
 </div>
