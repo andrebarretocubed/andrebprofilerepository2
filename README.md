@@ -77,3 +77,22 @@ This fininished project involves Java nodes, and is forked from a mainline proje
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=andrebarretocubed&theme=discord_old_blurple&utcOffset=8)
 </div>
+
+
+
+<div align="center">
+
+<h2>Here are ways to connect with me:</h2>
+</div>
+
+
+<div id="social" align="left">
+
+Youtube:
+
+Instagram:
+
+Email:
+
+Linkedin:
+</div>
