@@ -72,5 +72,5 @@ This fininished project involves Java nodes, and is forked from a mainline proje
 </div>
 
 <div id="statistics" align="left">
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=andrebarretocubed&show_icons=true)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=andrebarretocubed&theme=discord_old_blurple)
 </div>
