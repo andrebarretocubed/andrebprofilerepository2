@@ -39,11 +39,13 @@ I'm a pro:
 
 <div id="projects" align="left">
 Planning:
-
+<a href="https://github.com/andrebarretocubed/andrebprofilerepository2">Andre Profile Repo 2.0</a>
 
 Ongoing:
-
+<a href="https://github.com/andrebarretocubed/andrebarretocubed">Andre Original Profile Project</a>
 
 Complete:
+<a href="https://github.com/andrebarretocubed/parse-server-example">Parse Server Code</a>
+<a href="https://github.com/andrebarretocubed/java">Java Node</a>
 
 </div>
