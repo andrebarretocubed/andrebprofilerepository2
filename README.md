@@ -1,12 +1,21 @@
+
+<!-- This header was created using this site: https://leviarista.github.io/github-profile-header-generator/ 
+It was then uploaded to this github repo following this guide: https://docs.github.com/en/repositories/working-with-files/managing-files/adding-a-file-to-a-repository
+and referenced in the README file using the markdown code below. -->
 ![Header](./github-header-image.png)
 
+
+<!--Pronouns and introduction summary -->
 <div id="intro" align="center">
 Pronouns: He/Him
 
 My journey in coding....
 </div>
 
-
+<!-- Languages and tools created using shield badges in markdown
+More details found here: https://shields.io/
+Company badge images found here: https://simpleicons.org/
+-->
 <div align="center">
 
 <h2>Here are some of the tools and languages I've worked with:</h2>
@@ -35,6 +44,7 @@ My journey in coding....
 
 </div>
 
+<!-- Linked to github projects using <a href> html code. Added short description under each link -->
 <div align="center">
 
 <h2>Here are my projects:</h2>
@@ -65,7 +75,10 @@ This fininished project involves Java nodes, and is forked from a mainline proje
 
 </div>
 
-
+<!-- Github statistics created using this tool: https://github-profile-summary-cards.vercel.app/demo.html
+https://github.com/vn7n24fzkq/github-profile-summary-cards
+Code copied and inserted is markdown
+-->
 <div align="center">
 
 <h2>Here are my main github statistics:</h2>
@@ -79,7 +92,7 @@ This fininished project involves Java nodes, and is forked from a mainline proje
 </div>
 
 
-
+<!-- Social media links section -->
 <div align="center">
 
 <h2>Here are ways to connect with me:</h2>
